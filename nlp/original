@@ -1,0 +1,13 @@
+zabcdefghijklmnopqrstuvwxy
+
+Paragraphs writing competitions are part of skill and knowledge enhancement program for the students in the school Now a days almost all the schools are following this regime of essay or paragraphs writing in the classroom in order to enhance the students learning of English as well as proper awareness about the events and activities in India We have provided various paragraphs on different topics in order to help students
+
+National flag of India is rectangular and horizontal in shape with the three colour bands of saffron white and dark green spaced equally with Ashoka Chakra in navy blue colour in the centre The saffron colour is the symbol of Hinduism which indicates courage and sacrifice white colour indicates peace and truth and green colour indicates fertility and growth The navy blue chakra in the centre is the colour for ocean and sky It is due to the sacrifice and courage that we have achieved freedom and with truth and purity we can achieve growth and progress
+
+It had three bands  Green Yellow and Red The green on the top had eight white lotuses on it that represented eight provinces of the country The yellow band in the middle had Vande Mataram written on it and the red band at the bottom had a sun and a crescent on it
+
+Gandhiji later suggested a flag representing both Hindus and Muslims and the charkha that he gave high importance to The charkha on the flag was a symbol of being self reliant and boycotting the British goods The flag was held high during various freedom movements The freedom fighters of our country rallied around with this flag during various freedom movements and protests
+
+Later around a month before the independence of our country few prominent freedom fighters made a committee and finalised the national flag of our country  our Tiranga This committee included freedom fighters such as Sarojini Naidu K M Minshi and B R Ambedkar and was headed by Rajendra Prasad
+
+Now that we know the problem as well as the inputs and outputs lets think about how to approach this What we want the computer to do is to be able to differentiate between all the images its given and figure out the unique features that make a dog a dog or that make a cat a cat This is the process that goes on in our minds subconsciously as well When we look at a picture of a dog we can classify it as such if the picture has identifiable features such as paws or legs In a similar way the computer is able perform image classification by looking for low level features such as edges and curves and then building up to more abstract concepts through a series of convolutional layers This is a general overview of what a CNN does Lets get into the specifics
